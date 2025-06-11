@@ -1,5 +1,5 @@
 # HackclubSolder
-A simple pcb to turn on 2 led when it gets dark outside. 
+A simple pcb to turn on 2 led when it gets dark outside. Made By @SyamPaladugu
 
 
 # Schematic
