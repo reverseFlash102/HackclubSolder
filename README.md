@@ -7,10 +7,11 @@ A simple pcb to turn on 2 led when it gets dark outside. Made By @SyamPaladugu
 <img width="595" alt="image" src="https://github.com/user-attachments/assets/1623afe3-30b9-4429-8f38-e06c5d7fc066" />
 
 # PCB
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/b16f5759-10cd-4eee-a829-68e20fc396f1" />
 
-<img width="787" alt="image" src="https://github.com/user-attachments/assets/8f2b0cdb-afff-4944-9fff-6390979c6305" />
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/a1d63de9-6ffb-43fa-a302-ff1664b537c0" />
 
-<img width="682" alt="image" src="https://github.com/user-attachments/assets/f3068581-889b-48be-8162-c547a1f9f2c8" />
+
 
 # Function 
 Turn on the LEDs when it gets dark.
