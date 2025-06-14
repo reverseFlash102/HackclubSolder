@@ -16,7 +16,7 @@ A simple pcb to turn on 2 led when it gets dark outside. Made By @SyamPaladugu
 
 
 # Function 
-Turn on the LEDs when it gets dark.
+Turn on the LEDs when it gets dark. To be used as a keychain.
 
 # BOM
 2 Leds(Any Color)
